@@ -1,8 +1,8 @@
-- 👋 Hi, I'm Nico
-- 👀 I’m interested in testing and business support software
-- 🌱 I’m currently at university studying Systems Engineering, about to get my Systems Analyst degree
-- 💞️ I’m looking to collaborate on any project that offers me a boost in knowledge and experience
-- 📫 How to reach me: dm
+- 👋 Hi, I'm Nico!
+- 👀 I'm passionate about testing and business support software.
+- 🌱 I'm currently pursuing a degree in Systems Engineering at university and am about to earn my Systems Analyst degree.
+- 💞️ I'm eager to collaborate on projects that will help me gain more knowledge and experience.
+- 📫 Feel free to reach out via DM.
 
 <!---
 nicojuncos22/nicojuncos22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
