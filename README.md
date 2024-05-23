@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicojuncos22
+- 👋 Hi, I'm Nico
 - 👀 I’m interested in testing and business support software
 - 🌱 I’m currently at university studying Systems Engineering, about to get my Systems Analyst degree
 - 💞️ I’m looking to collaborate on any project that offers me a boost in knowledge and experience
