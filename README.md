@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Nico!
-- 👀 I'm passionate about testing and business support software.
+- 👀 I'm passionate about business support software and science breakthroughs.
 - 🌱 I'm currently pursuing a degree in Systems Engineering at university and am about to earn my Systems Analyst degree.
 - 💞️ I'm eager to collaborate on projects that will help me gain more knowledge and experience.
 - 📫 Feel free to reach out via DM.
