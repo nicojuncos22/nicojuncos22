@@ -1,10 +1,15 @@
-- 👋 Hi, I'm Nico!
-- 👀 I'm passionate about business support software and science breakthroughs.
-- 🌱 I'm currently pursuing a degree in Systems Engineering at university and am about to earn my Systems Analyst degree.
-- 💞️ I'm eager to collaborate on projects that will help me gain more knowledge and experience.
-- 📫 Feel free to reach out via DM.
+👋 Hi, I'm Nico!
+I'm a Systems Engineering student passionate about building software that supports real-world businesses and meaningful progress. I'm especially interested in tools that help organizations grow, improve workflows, and contribute to honest and efficient systems.
 
-<!---
-nicojuncos22/nicojuncos22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm currently completing my degree in Systems Engineering at UTN, and about to earn my Systems Analyst degree.
+
+🧠 I enjoy applying technical skills to real problems, especially where tech meets agriculture, health, logistics, or public services.
+
+💼 My projects aim to blend good design, robust architecture, and real utility — whether it's for startups, institutions, or independent professionals.
+
+🚀 I'm looking to collaborate on purpose-driven software, especially projects that challenge me to grow and deepen my understanding.
+
+🛠️ Interested in system design, backend development, and human-centered software.
+
+📫 Feel free to reach out via DM or open an issue on one of my repos — I'm always open to new ideas and collaborations.
+
